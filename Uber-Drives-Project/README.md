@@ -3,7 +3,7 @@ Carrying out an analysis on an Uber drives dataset using SQL to learn from the b
 
 Dataset Link: https://www.kaggle.com/datasets/zusmani/uberdrives
 
-Questions to ask the dataset
+Questions to ask the dataset :-
 1. What is the total number of cab rides for each category (business/personal)?
 2. What is the total number of round trips for each month?
 3. What is the average fare for each month?
