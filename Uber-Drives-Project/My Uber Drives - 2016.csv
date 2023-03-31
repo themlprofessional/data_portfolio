@@ -1,4 +1,4 @@
-START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 1/1/2016 21:11,1/1/2016 21:17,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
 1/2/2016 1:25,1/2/2016 1:37,Business,Fort Pierce,Fort Pierce,5,
 1/2/2016 20:25,1/2/2016 20:38,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
