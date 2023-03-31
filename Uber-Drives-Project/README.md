@@ -11,3 +11,13 @@ Questions to ask the dataset :-
 5. What are the top 5 cities with the highest number of cab rides?
 6. What is the distribution of miles and time taken for cab rides?
 7. What is the average time taken for airport rides compared to non-airport rides?
+
+Conclusions drawn :-
+Asking the above questions can help in reaching the following conclusions:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
