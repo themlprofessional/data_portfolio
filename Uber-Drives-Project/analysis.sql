@@ -92,6 +92,7 @@ ORDER BY
 
 -- 7. What is the average time taken for airport rides compared to non-airport rides?
 
+-- Cab rides to and from airports take more time compared to non-airport rides
 -- Airport/Travel
 SELECT PURPOSE, AVG(DATEDIFF(minute, START_DATE, END_DATE)) AS AVERAGE_MINUTES
 FROM [UberDrives].[dbo].[UberDrives]
@@ -182,7 +183,7 @@ ORDER BY COUNT(*) DESC
 --------------------------------------------------------------------------------------------------------------------------
 
 
--- 10. Day of the week with most and least TripCount
+-- 10. What is day of the week with most and least TripCount
 
 -- The day of the week with most TripCount is Friday, and the least is being Wednesday.
 SELECT
