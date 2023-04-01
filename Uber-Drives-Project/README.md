@@ -45,4 +45,4 @@ Based on the conclusions drawn from the analysis, the following recommendations 
     7. Investigate and address any operational inefficiencies causing longer travel times for airport rides, as this could impact customer satisfaction and loyalty.
     8. Station or contract more drivers in Cary to reduce wait times, especially during 1 PM - 4 PM, to enhance customer satisfaction.
     9. Increase the availability of cars in high-traffic cities on Fridays to improve customer satisfaction.
-    10. For locations with minimal patronage like Gampaha, Latta, and Briar Meadows, Uber can launch marketing initiatives such as mobile app ads or YouTube ads in those    markets.
+    10. For locations with minimal patronage like Gampaha, Latta, and Briar Meadows, Uber can launch marketing initiatives such as mobile app ads or YouTube ads in those markets.
