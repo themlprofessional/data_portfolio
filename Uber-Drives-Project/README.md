@@ -28,3 +28,16 @@ Asking the above questions can help in reaching the following conclusions:
 8. The busiest hour is 1 PM to 4 PM and the highest pick-up point location is Cary.
 9. The day of the week with most TripCount is Friday, and the least is being Wednesday.
 10. The majority of trips originate and end between Cary and Morrisville.
+
+
+How these conclusions can be used to generate profit for Uber :-
+1. They can Focus on promoting business cabs, as they are used more frequently and cover longer distances.
+2. Offer special promotions, discounts, or incentives for round trips in December, when more users are likely to use the service.
+3. Raise fares or implement surge pricing in December when demand is higher, thus maximizing revenue.
+4. Offer seasonal promotions or incentives to encourage users to take more rides during specific periods.
+5. Concentrate marketing and service expansion efforts in the top 5 cities with high cab traffic to capture a larger market share.
+6. Optimize pricing and service offerings for rides within 35 miles and taking about 30 minutes, as these constitute a significant portion of the total rides.
+7. Investigate and address any operational inefficiencies causing longer travel times for airport rides, as this could impact customer satisfaction and loyalty.
+8. Uber needs to station or contract more drivers in Cary to reduce wait times, especially during 1pm - 4pm; thereby enhancing customer satisfaction.
+9. With more available cars in high-traffic cities on Fridays, there will surely be positive customer satisfaction feedback.
+10. For locations with minimal demand like Gampaha, Latta, and Briar Meadows, Uber can launch marketing initiatives such as mobile app ads or YouTube ads in those markets.
