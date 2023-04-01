@@ -157,7 +157,15 @@ GROUP BY PURPOSE;
 --------------------------------------------------------------------------------------------------------------------------
 
 
--- 8. What is the highest pickup point?
+-- 8. What is the busiest hour and highest pickup point?
+
+-- The busiest hour is 1 PM to 4 PM
+SELECT
+DATEPART(hh,START_DATE) AS Hour,
+COUNT(*) AS UberOrders
+FROM [UberDrives].[dbo].[UberDrives]
+GROUP BY DATEPART(hh,START_DATE)
+ORDER BY COUNT(*) DESC
 
 -- The highest pick-up point location is Cary
 SELECT TOP 1 start, COUNT(*) AS pickups 
@@ -169,21 +177,7 @@ ORDER BY pickups DESC;
 --------------------------------------------------------------------------------------------------------------------------
 
 
--- 9. What is the busiest hour?
-
--- The busiest hour is 1 PM to 4 PM
-SELECT
-DATEPART(hh,START_DATE) AS Hour,
-COUNT(*) AS UberOrders
-FROM [UberDrives].[dbo].[UberDrives]
-GROUP BY DATEPART(hh,START_DATE)
-ORDER BY COUNT(*) DESC
-
-
---------------------------------------------------------------------------------------------------------------------------
-
-
--- 10. What is day of the week with most and least TripCount
+-- 9. What is day of the week with most and least TripCount ?
 
 -- The day of the week with most TripCount is Friday, and the least is being Wednesday.
 SELECT
@@ -197,7 +191,7 @@ ORDER BY TripCount DESC
 --------------------------------------------------------------------------------------------------------------------------
 
 
--- 11. Where are the majority of trips occur between ?
+-- 10. Where do the majority of trips occur between ?
 
 -- The majority of trips originate and end between Cary and Morrisville.
 SELECT TOP 2
