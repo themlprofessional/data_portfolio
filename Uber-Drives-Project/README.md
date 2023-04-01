@@ -1,7 +1,7 @@
 Uber-Drives-Project
 Project Overview
 
-This project involves analyzing an Uber drives dataset using SQL to learn from the behavior of an ordinary Uber customer. The dataset used for this project can be found on Kaggle [here] (https://www.kaggle.com/datasets/zusmani/uberdrives)
+This project involves analyzing an Uber drives dataset using SQL to learn from the behavior of an ordinary Uber customer. The dataset used for this project can be found on Kaggle [here](https://www.kaggle.com/datasets/zusmani/uberdrives)
 
 Project Questions
 
